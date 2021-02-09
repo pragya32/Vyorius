@@ -1,0 +1,19 @@
+{
+  "name": "vyorius_ass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragya32/Vyorius.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragya32/Vyorius/issues"
+  },
+  "homepage": "https://github.com/pragya32/Vyorius#readme"
+}
